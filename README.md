@@ -4,9 +4,9 @@
 Analyzed online bookstore sales, customer, book, and order data using PostgreSQL and Power BI.
 
 ## Tools
-PostgreSQL & SQL
-Power BI
-CSV
+* PostgreSQL & SQL
+* Power BI
+* CSV
 
 ## Power BI Dashboard
 The dashboard includes:
