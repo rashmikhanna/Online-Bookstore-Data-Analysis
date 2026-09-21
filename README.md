@@ -1,3 +1,4 @@
+<img width="1311" height="728" alt="Online Bookstore Dashbaord" src="https://github.com/user-attachments/assets/cdfc6f8c-5fcf-459d-b64f-19c2a5f5f7ac" />
 # Online Bookstore Data Analysis
 
 ## Project Overview
